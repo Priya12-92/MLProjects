@@ -1,0 +1,14 @@
+# .gitignore for Python projects
+
+# Ignore pycache and .pyc files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment folders
+venv/
+env/
+.venv/
+
+# Ignore any sensitive or secret information
+secret.txt
+credentials.json
